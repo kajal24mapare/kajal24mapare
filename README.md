@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kajal24mapare
-- 👀 I’m interested in JS, ES6, Typescript, React, CSS
+- 👀 I’m interested in JS, ES6, Typescript, React, Redux, CSS
 - 🌱 I’m currently working as Senior Software Engineer
 
 <!---
