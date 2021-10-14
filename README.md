@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kajal24mapare
 - 👀 I’m interested in JS, ES6, Typescript, React, Redux, CSS
-- 🌱 I’m currently working as Senior Software Engineer
 
 <!---
 kajal24mapare/kajal24mapare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
